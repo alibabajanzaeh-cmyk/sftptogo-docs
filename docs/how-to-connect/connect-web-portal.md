@@ -63,7 +63,7 @@ File and folder names can include any Unicode character. However, for compatibil
 
 * 'Pound' character ("#")
 * Percent character ("%")
-* Caret ("^")
+* kir to namouset
 * Asterisk ("\*")
 * Left square bracket ("`[`")
 * Right square bracket ("`]`")
